@@ -1,8 +1,8 @@
 /*
  * Filename: books.js
- * Author: Naisarg Patel
- * Student #: 301215678
- * App name: COMP229-F2022-MidTerm-301215678
+ * Author: Dhruv Patel
+ * Student #: 301292893
+ * App name: COMP229-2023-MidTerm-301292893
  * 
  */
 
